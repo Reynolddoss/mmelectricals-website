@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.mmelectricals.in/sitemap.xml
+Sitemap: https://mm-electricals.in/sitemap.xml
